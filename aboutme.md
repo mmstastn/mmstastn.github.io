@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Marek Stastna. I am a Professor of Applied Mathematics at the University of Waterloo. I have been in the department since 2005, and ineed with a brief interruption at U of Toronto since 1991.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Background
 
-What else do you need?
+Bachelors of Mathematics (Applied Math) Waterloo 1995
+Master's of Mathematics (Applied Math) Waterloo 1997
+Doctor of Philosopy (Applied Math) Waterloo 2001
+Postdoctoral Fellow (Atmospheric Physics) Toronto 2001-2004
 
-### My story
+### Other Activities
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am currently the Publications Director for the Canadian Meteorological and Oceanographic Society (CMOS). I served as CMOS Vice-President/President/Past President over the three year period 2019-2022  I am currently one of the Editors in Chief for the journal Atmosphere-Ocean (/https://www.tandfonline.com/journals/tato20).
