@@ -18,4 +18,4 @@ Postdoctoral Fellow (Atmospheric Physics) Toronto 2001-2004
 
 ### Other Activities
 
-I am currently the Publications Director for the Canadian Meteorological and Oceanographic Society (CMOS). I served as CMOS Vice-President/President/Past President over the three year period 2019-2022  I am currently one of the Editors in Chief for the journal [Atmosphere-Ocean](/https://www.tandfonline.com/journals/tato20)).
+I am currently the Publications Director for the Canadian Meteorological and Oceanographic Society (CMOS). I served as CMOS Vice-President/President/Past President over the three year period 2019-2022  I am currently one of the Editors in Chief for the journal [Atmosphere-Ocean](https://www.tandfonline.com/journals/tato20).
