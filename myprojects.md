@@ -2,7 +2,7 @@
 layout: page
 title: My Projects
 subtitle: 
-cover-img: /assets/img/mode2_high_res.jpeg
+cover-img: /assets/img/icelake_grav_curr.png
 ---
 
 I work on a variety projects ranging from pure science, curiosity driven research, collaborations with government partners like ECCC and DFO, and large group grants.
