@@ -21,6 +21,7 @@ author: Marek Stastna
 
 navbar-links:
   About Me: "aboutme"
+  My Projects: "myprojects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
