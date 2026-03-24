@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/ice_from_iceland.jpeg
 ---
 
-My name is Marek Stastna. I am a Professor of Applied Mathematics at the University of Waterloo. I have been in the department since 2005, and ineed with a brief interruption at U of Toronto (2001-2004), since 1991.
+My name is Marek Stastna. I am a Professor of Applied Mathematics at the University of Waterloo. I have been in the department since 2004, and ineed with a brief interruption at U of Toronto (2001-2004), since 1991.
 
 ### My Background
 
@@ -16,6 +16,14 @@ Master's of Mathematics (Applied Math) Waterloo 1997
 Doctor of Philosopy (Applied Math) Waterloo 2001
 
 Postdoctoral Fellow (Atmospheric Physics) Toronto 2001-2004
+
+### My General Research Interests
+
+My background is in stratified fluid mechanics and nonlinear waves.  Over the course of my career this has expanded to cover larger portions of climate science.  Largely this is due to my interest in building software.
+
+### My Publications
+
+You can find my Google Scholar listing of publications [here](https://scholar.google.ca/citations?user=zOKPHBUAAAAJ&hl=en&oi=ao)
 
 ### Other Activities
 
