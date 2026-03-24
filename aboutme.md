@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: 
-cover-img: /assets/img/ice_from_iceland.jpeg
+cover-img: /assets/img/mode2_high_res.jpeg
 ---
 
 My name is Marek Stastna. I am a Professor of Applied Mathematics at the University of Waterloo. I have been in the department since 2004, and ineed with a brief interruption at U of Toronto (2001-2004), since 1991.
