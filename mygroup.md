@@ -1,4 +1,3 @@
-# This is the file describing my group
 ---
 layout: page
 title: My Group
