@@ -22,10 +22,11 @@ author: Marek Stastna
 navbar-links:
   About Me: "aboutme"
   My Projects: "myprojects"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  My Group: "mygroup"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
